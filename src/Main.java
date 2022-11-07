@@ -15,5 +15,7 @@ student2.age = 15;
 student2.getAge();
         System.out.println(student1.name +" " + student1.surname +" " + student1.age + "\n" + student2.name + " " + student2.surname+ " " + student2.age);
 
+
+        System.out.println("Hello Erbol");
     }
 }
